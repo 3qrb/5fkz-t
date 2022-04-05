@@ -1,5 +1,5 @@
-$ cd VJS
+$ cd 5fkz-t
 
-$ bash install.sh
+$ chmod +x * 
 
-$ bash VJS.sh
+$ bash 5fkz-t.sh 
