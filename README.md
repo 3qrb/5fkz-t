@@ -1,1 +1,5 @@
-# hack-99
+$ cd VJS
+
+$ bash install.sh
+
+$ bash VJS.sh
